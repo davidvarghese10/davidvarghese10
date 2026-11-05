@@ -69,7 +69,7 @@
 </p>
 
 
-### 🐍 Contribution Activity
+### 👨🏻‍💻 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/davidvarghese10/davidvarghese10/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
