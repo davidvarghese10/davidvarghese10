@@ -1,0 +1,66 @@
+<svg viewBox="-130 -30 2560 790"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="neonBlueGlass">
+      <stop offset="0%" stop-color="#E0F2FE"/>
+      <stop offset="25%" stop-color="#38BDF8"/>
+      <stop offset="65%" stop-color="#0284C7"/>
+      <stop offset="90%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#BAE6FD"/>
+    </linearGradient>
+
+    <linearGradient id="glassSheen">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity=".9"/>
+      <stop offset="50%" stop-color="#7DD3FC" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity=".95"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .draw {
+      stroke-dasharray: 1;
+      stroke-dashoffset: 1;
+      animation: handwriting 2.8s
+        cubic-bezier(.38,.04,.22,1) forwards;
+    }
+
+    @keyframes handwriting {
+      to { stroke-dashoffset: 0; }
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="#0d0e12"/>
+
+  <!-- Add the original ambient glow here -->
+
+  <g transform="scale(1,-1) translate(0,-728.156)">
+
+    <!-- Reuse your EXACT original helloPath -->
+    <path id="hello"
+          d="YOUR_ORIGINAL_HELLO_PATH"
+          pathLength="1"
+          fill="none"/>
+
+    <use href="#hello"
+         class="draw"
+         stroke="#38BDF8"
+         stroke-width="76"
+         stroke-opacity=".22"
+         stroke-linecap="round"/>
+
+    <use href="#hello"
+         class="draw"
+         stroke="url(#neonBlueGlass)"
+         stroke-width="56"
+         stroke-linecap="round"/>
+
+    <use href="#hello"
+         class="draw"
+         stroke="url(#glassSheen)"
+         stroke-width="15"
+         stroke-opacity=".85"
+         stroke-linecap="round"/>
+
+  </g>
+</svg>
