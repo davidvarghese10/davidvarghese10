@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="./assets/hello.gif" alt="Animated neon blue handwritten hello" width="85%" />
+  <img src="./assets/hello.gif" alt="Animated neon blue handwritten hello" width="100% height " />
 </p>
 
 <h1 align="center">Hi, I'm David Varghese 👋</h1>
