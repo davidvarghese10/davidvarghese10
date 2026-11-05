@@ -2,7 +2,7 @@
   <img src="./assets/hello.svg" alt="Animated neon blue handwritten hello" width="100%" height="100%" />
 </p>
 
-<h1 align="center">Hi, I'm David Varghese 👋</h1>
+<h1 align="center">Hello, I'm David Varghese 👋</h1>
 
 <p align="center">
   <strong>Aspiring Software Developer</strong><br>
