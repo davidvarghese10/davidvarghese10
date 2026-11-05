@@ -3,7 +3,6 @@
     src="./assets/hello.svg"
     alt="Animated neon blue handwritten hello"
     width="100%"
-    style="display: block; height: auto; overflow: visible;"
   />
 </p>
 
