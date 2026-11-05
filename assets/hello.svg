@@ -66,7 +66,7 @@
 
       <animate attributeName="stroke-dashoffset"
                from="1" to="0"
-               dur="2.8s"
+               dur="1.8s"
                calcMode="spline"
                keySplines=".38 .04 .22 1"
                fill="freeze"/>
@@ -82,7 +82,7 @@
 
       <animate attributeName="stroke-dashoffset"
                from="1" to="0"
-               dur="2.8s"
+               dur="1.8s"
                calcMode="spline"
                keySplines=".38 .04 .22 1"
                fill="freeze"/>
