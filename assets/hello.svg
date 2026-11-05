@@ -51,7 +51,7 @@
 
       <animate attributeName="stroke-dashoffset"
                from="1" to="0"
-               dur="2.2s"
+               dur="1.8s"
                calcMode="spline"
                keySplines=".25 .1 .25 1"
                fill="freeze"/>
