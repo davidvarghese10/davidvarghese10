@@ -1,5 +1,10 @@
- <p align="center">
-  <img src="./assets/hello.svg" alt="Animated neon blue handwritten hello" width="100%" height="100%" />
+<p align="center">
+  <img
+    src="./assets/hello.svg"
+    alt="Animated neon blue handwritten hello"
+    width="100%"
+    style="display: block; height: auto; overflow: visible;"
+  />
 </p>
 
 <h1 align="center">Hello, I'm David Varghese 👋</h1>
