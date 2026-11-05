@@ -55,15 +55,16 @@
 ### 📊 GitHub Statistics
 
 
+
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=davidvarghese10&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="David's GitHub statistics"
+    src="https://github-stats-extended.vercel.app/api?username=davidvarghese10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8"
+    alt="GitHub Statistics"
     height="165"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidvarghese10&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Most used languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidvarghese10&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
+    alt="Most Used Languages"
     height="165"
   />
 </p>
