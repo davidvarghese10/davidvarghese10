@@ -54,10 +54,20 @@
 
 ### 📊 GitHub Statistics
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidvarghese10&show_icons=true&hide_border=true&theme=tokyonight" alt="David's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidvarghese10&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=davidvarghese10&show_icons=true&hide_border=true&theme=tokyonight"
+    alt="David's GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=davidvarghese10&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Most used languages"
+    height="165"
+  />
 </p>
+
 
 ### 🐍 Contribution Activity
 
